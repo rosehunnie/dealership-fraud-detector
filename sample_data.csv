@@ -1,0 +1,11 @@
+transaction_id,amount,date,description,category
+T001,1000.00,2024-01-01,Office Supplies,Expenses
+T002,2500.00,2024-01-02,Client Payment,Income
+T003,500.00,2024-01-03,Software Subscription,Expenses
+T004,1000.00,2024-01-01,Office Supplies,Expenses
+T005,10000.00,2024-01-04,Equipment Purchase,Assets
+T006,100.00,2024-01-05,Office Supplies,Expenses
+T007,100.00,2024-01-05,Office Supplies,Expenses
+T008,5000.00,2024-01-06,Consulting Fee,Income
+T009,10000.00,2024-01-07,Equipment Purchase,Assets
+T010,1000.00,2024-01-08,Office Supplies,Expenses 
